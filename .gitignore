@@ -63,3 +63,9 @@ phase*_analysis.png
 *_results.csv
 *_summary.md
 *_analysis.png
+data/audio/*
+!data/audio/.gitkeep
+data/image/*
+!data/image/.gitkeep
+data/video/*
+!data/video/.gitkeep
